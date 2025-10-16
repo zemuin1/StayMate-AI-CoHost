@@ -19,8 +19,6 @@ It integrates GPT and Gemini language models to deliver instant, personalized re
 - **Frameworks:** Flask, FastAPI  
 - **AI Models:** GPT-4, Gemini  
 - **Automation Tools:** Zapier, LangChain  
-- **Cloud:** AWS (Lambda, S3), Firebase  
-- **Database:** PostgreSQL  
 
 ---
 ## 🧪 Live Testing Examples
