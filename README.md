@@ -23,6 +23,18 @@ It integrates GPT and Gemini language models to deliver instant, personalized re
 - **Database:** PostgreSQL  
 
 ---
+## 🧪 Live Testing Examples
+
+These screenshots show real automation tests conducted with an Airbnb host account using StayMate’s AI Co-Host system.
+
+- Auto-replied guest inquiries within **3 seconds**
+- Personalized check-in and check-out messages
+- Triggered cleaning task reminders post-departure
+- Host received summary confirmation email after setup
+
+(*All examples anonymized to protect guest privacy*)
+
+---
 
 ## 🧩 Architecture
 ```mermaid
@@ -34,3 +46,5 @@ graph TD;
     AI_Models-->Response;
     Database-->Automation;
     Automation-->Host_Notifications;
+
+
